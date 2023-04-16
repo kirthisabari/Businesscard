@@ -1,0 +1,26 @@
+body{
+    margin : 20px;
+    
+}
+.imgcls{
+    width: 100px;
+}
+.card{
+    display: flex; 
+    margin: 0 auto;
+    
+    width: 400px;
+    padding: 20px;
+    justify-content: space-around;
+    text-align: center;
+    background: #ddebf8;
+    color: black;
+    border-bottom: 6px solid #d8cefe;
+    font-family: verdana;
+    
+    
+    
+}
+.border-blue{
+    border: 1px dotted blue;
+}
